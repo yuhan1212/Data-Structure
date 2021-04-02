@@ -1,6 +1,6 @@
 """
 Data Structure Note in Python
-1. Linked List
+Linked List
 
 
 * Definition for Linked List:
